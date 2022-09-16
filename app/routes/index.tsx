@@ -50,7 +50,6 @@ export default function Index() {
                   </div>
                 )}
               </div>
-              </a>
             </div>
           </div>
         </div>
