@@ -53,15 +53,6 @@ export default function Index() {
             </div>
           </div>
         </div>
-            ].map((img) => (
-              <a
-                key={img.href}
-                href={img.href}
-                className="flex h-16 w-32 justify-center p-1 grayscale transition hover:grayscale-0 focus:grayscale-0"
-              >
-                <img alt={img.alt} src={img.src} />
-              </a>
-            ))}
           </div>
         </div>
       </div>
